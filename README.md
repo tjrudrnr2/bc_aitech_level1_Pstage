@@ -33,4 +33,4 @@ Classification mask, age, gender
 * 성별 : 남,여
 * 이미지 크기 : (384,512)
 * classes_num=18
-
+![131881060-c6d16a84-1138-4a28-b273-418ea487548d](https://user-images.githubusercontent.com/70709889/158053322-1088f359-371b-4688-865f-6296f159d95a.png)
