@@ -32,3 +32,5 @@ Classification mask, age, gender
 * 나이 : 20대 - 70대
 * 성별 : 남,여
 * 이미지 크기 : (384,512)
+* classes_num=18
+
